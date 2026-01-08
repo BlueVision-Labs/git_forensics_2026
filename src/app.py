@@ -1,5 +1,4 @@
 import sys
-#Secret 6: vigilant}
 # Check if at least one argument (after the script name) is provided
 if len(sys.argv) > 1:
     # Get the first argument
